@@ -9,3 +9,9 @@ void anewfunc(void)
 {
 	printf("Hello world a new function.\n");
 }
+
+void twonewfunc(void)
+{
+	printf("Hello world two new functions.\n");
+}
+
